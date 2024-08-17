@@ -1,0 +1,4 @@
+
+MQ135 센서 : https://velog.io/@d2h10s/STM32-ADC-사용하여-MQ-9-센서값-읽기
+DHT11 센서 : https://www.micropeta.com/video39
+HC-SR04 센서 : https://www.eduino.kr/product/detail.html?product_no=39&cate_no=27&display_group=2
